@@ -5,7 +5,7 @@ import sys
 import time
 
 def explorar_directorio(url):
-    """Explora un directorio en un Directory Listing y devuelve una estructura JSON."""
+    """[+] Explora un directorio en un Directory Listing y devuelve una estructura JSON."""
     print(f"Verificando URL: {url}")
     
     try:
